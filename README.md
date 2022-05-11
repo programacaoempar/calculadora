@@ -1,1 +1,1 @@
-# calculadora alterada Sandrini
+# calculadora alterada Sandrini, Edgar
