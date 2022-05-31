@@ -9,7 +9,7 @@ class CalculadoraTest {
     @Test
     void calcula(){
         Calculadora calculadora = new Calculadora();
-        assertEquals("12.0", calculadora.calcula("10+2"));
+        assertEquals("4.0", calculadora.calcula("10-2-4"));
     }
 
 }
